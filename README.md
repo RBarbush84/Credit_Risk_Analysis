@@ -63,7 +63,6 @@ The purpose of this analysis was to use different machine learning models to ana
 
 #### BRFC
 
-![BRFC](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/Oversampling.png)
 
 * Balanced Accuracy- N/A
 
@@ -77,7 +76,6 @@ The purpose of this analysis was to use different machine learning models to ana
 
 #### EEC
 
-![EEC](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/Oversampling.png)
 
 * Balanced Accuracy- N/A
 
