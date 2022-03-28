@@ -23,31 +23,71 @@ The purpose of this analysis was to use different machine learning models to ana
 
 ![SMOTE](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/SMOTE.png)
 
-Analysis
+* Balanced Accuracy- 63.7%
+
+* High Risk Precision- 1%
+
+* High Risk Recall- 62%
+
+* Low Risk Precision- 100%
+
+* Low Risk Recall- 65%
 
 #### Cluster Centroid
 
 ![Cluster_Centroid](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/Undersampling.png)
 
-Analysis
+* Balanced Accuracy- 63.7%
+
+* High Risk Precision- 1%
+
+* High Risk Recall- 62%
+
+* Low Risk Precision- 100%
+
+* Low Risk Recall- 65%
 
 #### SMOTEENN
 
 ![SMOTEENN](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN.png)
 
-Analysis
+* Balanced Accuracy- 63.7%
+
+* High Risk Precision- 1%
+
+* High Risk Recall- 62%
+
+* Low Risk Precision- 100%
+
+* Low Risk Recall- 65%
 
 #### BRFC
 
 ![BRFC](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/Oversampling.png)
 
-Analysis
+* Balanced Accuracy- 63.7%
+
+* High Risk Precision- 1%
+
+* High Risk Recall- 62%
+
+* Low Risk Precision- 100%
+
+* Low Risk Recall- 65%
 
 #### EEC
 
 ![EEC](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/Oversampling.png)
 
-Analysis
+* Balanced Accuracy- 63.7%
+
+* High Risk Precision- 1%
+
+* High Risk Recall- 62%
+
+* Low Risk Precision- 100%
+
+* Low Risk Recall- 65%
 
 ## Summary
 
