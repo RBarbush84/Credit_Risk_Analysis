@@ -65,29 +65,29 @@ The purpose of this analysis was to use different machine learning models to ana
 
 ![BRFC](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/Oversampling.png)
 
-* Balanced Accuracy- 63.7%
+* Balanced Accuracy- N/A
 
-* High Risk Precision- 1%
+* High Risk Precision- N/A
 
-* High Risk Recall- 62%
+* High Risk Recall- N/A
 
-* Low Risk Precision- 100%
+* Low Risk Precision- N/A
 
-* Low Risk Recall- 65%
+* Low Risk Recall- N/A
 
 #### EEC
 
 ![EEC](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/Oversampling.png)
 
-* Balanced Accuracy- 63.7%
+* Balanced Accuracy- N/A
 
-* High Risk Precision- 1%
+* High Risk Precision- N/A
 
-* High Risk Recall- 62%
+* High Risk Recall- N/A
 
-* Low Risk Precision- 100%
+* Low Risk Precision- N/A
 
-* Low Risk Recall- 65%
+* Low Risk Recall- N/A
 
 ## Summary
 
