@@ -9,15 +9,15 @@ The purpose of this analysis was to use different machine learning models to ana
 
 ![Oversampling](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/Oversampling.png)
 
--Balanced Accuracy- 63.7%
+*Balanced Accuracy- 63.7%
 
--High Risk Precision- 1%
+*High Risk Precision- 1%
 
--High Risk Recall- 62%
+*High Risk Recall- 62%
 
--Low Risk Precision- 100%
+*Low Risk Precision- 100%
 
--Low Risk Recall- 65%
+*Low Risk Recall- 65%
 
 #### SMOTE
 
