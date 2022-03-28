@@ -7,37 +7,37 @@ The purpose of this analysis was to use different machine learning models to ana
 
 #### Random Oversampling
 
-Image
+![Oversampling](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/Oversampling.png)
 
 Analysis
 
 #### SMOTE
 
-Image
+![SMOTE](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/SMOTE.png)
 
 Analysis
 
 #### Cluster Centroid
 
-Image
+![Cluster_Centroid](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/Undersampling.png)
 
 Analysis
 
 #### SMOTEENN
 
-Image
+![SMOTEENN](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN.png)
 
 Analysis
 
 #### BRFC
 
-Image
+![BRFC](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/Oversampling.png)
 
 Analysis
 
 #### EEC
 
-Image
+![EEC](https://github.com/RBarbush84/Credit_Risk_Analysis/blob/main/Resources/Oversampling.png)
 
 Analysis
 
