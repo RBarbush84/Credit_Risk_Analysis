@@ -5,37 +5,37 @@ The purpose of this analysis was to use different machine learning models to ana
 
 ## Results
 
-Random Oversampling
+#### Random Oversampling
 
 Image
 
 Analysis
 
-SMOTE
+#### SMOTE
 
 Image
 
 Analysis
 
-Cluster Centroid
+#### Cluster Centroid
 
 Image
 
 Analysis
 
-SMOTEENN
+#### SMOTEENN
 
 Image
 
 Analysis
 
-BRFC
+#### BRFC
 
 Image
 
 Analysis
 
-EEC
+#### EEC
 
 Image
 
